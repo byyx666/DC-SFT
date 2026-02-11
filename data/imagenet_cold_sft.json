@@ -1,0 +1,6002 @@
+[
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "sundial"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04355338/n04355338_11786.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "sundial"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04355338/n04355338_16960.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "sundial"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04355338/n04355338_4416.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "sundial"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04355338/n04355338_6417.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "lifeboat"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03662601/n03662601_11770.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "lifeboat"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03662601/n03662601_3850.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "lifeboat"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03662601/n03662601_10240.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "lifeboat"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03662601/n03662601_13885.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "goose"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n01855672/n01855672_246.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "goose"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n01855672/n01855672_13210.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "goose"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n01855672/n01855672_8559.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "goose"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n01855672/n01855672_4549.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "banana"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n07753592/n07753592_9960.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "banana"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n07753592/n07753592_4865.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "banana"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n07753592/n07753592_11716.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "banana"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n07753592/n07753592_8038.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "abacus"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02666196/n02666196_7554.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "abacus"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02666196/n02666196_9537.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "abacus"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02666196/n02666196_3356.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "abacus"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02666196/n02666196_17054.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "shovel"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04208210/n04208210_5670.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "shovel"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04208210/n04208210_44471.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "shovel"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04208210/n04208210_20615.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "shovel"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04208210/n04208210_22669.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "turnstile"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04501370/n04501370_20252.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "turnstile"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04501370/n04501370_10416.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "turnstile"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04501370/n04501370_2483.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "turnstile"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04501370/n04501370_16279.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "stingray"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n01498041/n01498041_8491.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "stingray"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n01498041/n01498041_5592.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "stingray"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n01498041/n01498041_5742.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "stingray"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n01498041/n01498041_9745.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "agaric"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n12998815/n12998815_3049.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "agaric"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n12998815/n12998815_3114.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "agaric"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n12998815/n12998815_6317.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "agaric"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n12998815/n12998815_17931.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "jellyfish"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n01910747/n01910747_10260.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "jellyfish"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n01910747/n01910747_7740.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "jellyfish"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n01910747/n01910747_215.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "jellyfish"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n01910747/n01910747_569.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "iPod"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03584254/n03584254_6933.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "iPod"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03584254/n03584254_2928.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "iPod"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03584254/n03584254_36.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "iPod"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03584254/n03584254_4730.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "bassoon"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02804610/n02804610_1634.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "bassoon"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02804610/n02804610_17926.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "bassoon"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02804610/n02804610_16643.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "bassoon"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02804610/n02804610_1497.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "kelpie"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02105412/n02105412_3782.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "kelpie"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02105412/n02105412_827.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "kelpie"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02105412/n02105412_2670.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "kelpie"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02105412/n02105412_5971.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "knot"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03627232/n03627232_18054.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "knot"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03627232/n03627232_5142.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "knot"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03627232/n03627232_7466.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "knot"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03627232/n03627232_4925.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "projector"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04009552/n04009552_4803.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "projector"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04009552/n04009552_7935.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "projector"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04009552/n04009552_2251.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "projector"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04009552/n04009552_14899.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "altar"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02699494/n02699494_10386.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "altar"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02699494/n02699494_3709.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "altar"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02699494/n02699494_8743.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "altar"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02699494/n02699494_6119.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "eft"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n01631663/n01631663_4579.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "eft"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n01631663/n01631663_7193.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "eft"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n01631663/n01631663_6632.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "eft"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n01631663/n01631663_4558.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "barbershop"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02791270/n02791270_25601.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "barbershop"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02791270/n02791270_31736.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "barbershop"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02791270/n02791270_9012.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "barbershop"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02791270/n02791270_28529.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "basenji"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02110806/n02110806_6035.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "basenji"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02110806/n02110806_1422.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "basenji"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02110806/n02110806_13616.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "basenji"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02110806/n02110806_3331.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "orange"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n07747607/n07747607_18155.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "orange"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n07747607/n07747607_18202.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "orange"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n07747607/n07747607_2494.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "orange"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n07747607/n07747607_7795.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "bustard"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02018795/n02018795_4873.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "bustard"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02018795/n02018795_8343.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "bustard"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02018795/n02018795_1742.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "bustard"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02018795/n02018795_11374.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "slug"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n01945685/n01945685_7610.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "slug"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n01945685/n01945685_12616.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "slug"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n01945685/n01945685_9052.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "slug"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n01945685/n01945685_13199.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "partridge"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n01807496/n01807496_545.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "partridge"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n01807496/n01807496_21.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "partridge"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n01807496/n01807496_31332.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "partridge"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n01807496/n01807496_7779.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "dome"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03220513/n03220513_24.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "dome"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03220513/n03220513_25130.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "dome"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03220513/n03220513_34249.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "dome"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03220513/n03220513_8239.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "bulbul"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n01560419/n01560419_6283.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "bulbul"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n01560419/n01560419_5835.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "bulbul"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n01560419/n01560419_463.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "bulbul"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n01560419/n01560419_3649.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "coucal"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n01824575/n01824575_5756.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "coucal"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n01824575/n01824575_5095.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "coucal"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n01824575/n01824575_3308.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "coucal"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n01824575/n01824575_11209.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "pillow"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03938244/n03938244_21884.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "pillow"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03938244/n03938244_24999.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "pillow"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03938244/n03938244_16522.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "pillow"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03938244/n03938244_29437.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "throne"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04429376/n04429376_61.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "throne"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04429376/n04429376_7330.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "throne"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04429376/n04429376_7489.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "throne"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04429376/n04429376_14523.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "balloon"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02782093/n02782093_407.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "balloon"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02782093/n02782093_26214.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "balloon"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02782093/n02782093_622.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "balloon"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02782093/n02782093_3377.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "modem"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03777754/n03777754_3744.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "modem"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03777754/n03777754_1727.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "modem"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03777754/n03777754_12205.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "modem"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03777754/n03777754_19435.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "eggnog"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n07932039/n07932039_22188.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "eggnog"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n07932039/n07932039_8678.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "eggnog"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n07932039/n07932039_694.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "eggnog"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n07932039/n07932039_18159.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "ptarmigan"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n01796340/n01796340_8455.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "ptarmigan"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n01796340/n01796340_10902.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "ptarmigan"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n01796340/n01796340_28015.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "ptarmigan"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n01796340/n01796340_16108.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "spatula"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04270147/n04270147_10621.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "spatula"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04270147/n04270147_18414.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "spatula"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04270147/n04270147_7715.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "spatula"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04270147/n04270147_19805.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "leafhopper"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02259212/n02259212_4660.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "leafhopper"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02259212/n02259212_534.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "leafhopper"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02259212/n02259212_2653.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "leafhopper"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02259212/n02259212_827.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "swing"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04371774/n04371774_13497.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "swing"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04371774/n04371774_3411.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "swing"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04371774/n04371774_9431.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "swing"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04371774/n04371774_12933.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "stove"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04330267/n04330267_8974.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "stove"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04330267/n04330267_13442.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "stove"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04330267/n04330267_13357.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "stove"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04330267/n04330267_1899.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "hartebeest"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02422106/n02422106_4732.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "hartebeest"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02422106/n02422106_2720.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "hartebeest"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02422106/n02422106_53.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "hartebeest"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02422106/n02422106_2322.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "photocopier"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03924679/n03924679_12863.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "photocopier"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03924679/n03924679_11297.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "photocopier"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03924679/n03924679_7941.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "photocopier"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03924679/n03924679_20138.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "consomme"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n07584110/n07584110_959.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "consomme"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n07584110/n07584110_19631.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "consomme"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n07584110/n07584110_96.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "consomme"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n07584110/n07584110_508.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "pole"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03976657/n03976657_30914.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "pole"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03976657/n03976657_69661.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "pole"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03976657/n03976657_3514.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "pole"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03976657/n03976657_21581.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "necklace"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03814906/n03814906_4225.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "necklace"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03814906/n03814906_1700.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "necklace"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03814906/n03814906_2856.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "necklace"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03814906/n03814906_29147.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "envelope"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03291819/n03291819_1994.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "envelope"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03291819/n03291819_3929.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "envelope"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03291819/n03291819_2821.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "envelope"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03291819/n03291819_20750.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "minivan"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03770679/n03770679_347.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "minivan"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03770679/n03770679_10087.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "minivan"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03770679/n03770679_4125.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "minivan"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03770679/n03770679_20573.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "matchstick"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03729826/n03729826_24410.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "matchstick"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03729826/n03729826_44438.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "matchstick"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03729826/n03729826_8206.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "matchstick"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03729826/n03729826_5354.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "badger"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02447366/n02447366_27481.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "badger"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02447366/n02447366_28886.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "badger"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02447366/n02447366_4010.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "badger"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02447366/n02447366_1174.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "wig"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04584207/n04584207_6349.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "wig"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04584207/n04584207_6844.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "wig"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04584207/n04584207_3812.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "wig"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04584207/n04584207_12493.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "cardoon"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n07730033/n07730033_1553.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "cardoon"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n07730033/n07730033_10434.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "cardoon"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n07730033/n07730033_6923.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "cardoon"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n07730033/n07730033_4438.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "menu"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n07565083/n07565083_7410.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "menu"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n07565083/n07565083_4979.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "menu"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n07565083/n07565083_595.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "menu"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n07565083/n07565083_2731.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "trimaran"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04483307/n04483307_4630.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "trimaran"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04483307/n04483307_14501.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "trimaran"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04483307/n04483307_2198.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "trimaran"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04483307/n04483307_10053.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "overskirt"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03866082/n03866082_9892.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "overskirt"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03866082/n03866082_1400.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "overskirt"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03866082/n03866082_1381.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "overskirt"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03866082/n03866082_10097.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "safe"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04125021/n04125021_308.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "safe"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04125021/n04125021_2441.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "safe"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04125021/n04125021_8773.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "safe"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04125021/n04125021_4152.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "maillot"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03710637/n03710637_8161.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "maillot"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03710637/n03710637_10029.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "maillot"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03710637/n03710637_9412.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "maillot"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03710637/n03710637_23763.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "chickadee"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n01592084/n01592084_5610.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "chickadee"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n01592084/n01592084_9313.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "chickadee"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n01592084/n01592084_2015.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "chickadee"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n01592084/n01592084_4096.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "hamper"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03482405/n03482405_163.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "hamper"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03482405/n03482405_10924.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "hamper"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03482405/n03482405_8142.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "hamper"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03482405/n03482405_15398.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "cradle"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03125729/n03125729_28490.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "cradle"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03125729/n03125729_2002.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "cradle"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03125729/n03125729_13192.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "cradle"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03125729/n03125729_14520.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "snowmobile"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04252077/n04252077_16051.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "snowmobile"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04252077/n04252077_2112.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "snowmobile"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04252077/n04252077_1230.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "snowmobile"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04252077/n04252077_4250.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "crutch"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03141823/n03141823_4693.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "crutch"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03141823/n03141823_5879.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "crutch"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03141823/n03141823_9787.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "crutch"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03141823/n03141823_5655.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "bluetick"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02088632/n02088632_8848.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "bluetick"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02088632/n02088632_9323.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "bluetick"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02088632/n02088632_4087.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "bluetick"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02088632/n02088632_7407.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "burrito"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n07880968/n07880968_6805.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "burrito"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n07880968/n07880968_461.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "burrito"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n07880968/n07880968_6317.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "burrito"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n07880968/n07880968_2436.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "flamingo"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02007558/n02007558_10608.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "flamingo"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02007558/n02007558_14500.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "flamingo"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02007558/n02007558_745.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "flamingo"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02007558/n02007558_14094.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "weasel"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02441942/n02441942_542.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "weasel"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02441942/n02441942_3817.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "weasel"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02441942/n02441942_14776.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "weasel"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02441942/n02441942_5197.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "mortar"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03786901/n03786901_14486.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "mortar"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03786901/n03786901_8738.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "mortar"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03786901/n03786901_8378.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "mortar"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03786901/n03786901_516.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "carton"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02971356/n02971356_158.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "carton"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02971356/n02971356_601.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "carton"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02971356/n02971356_4460.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "carton"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02971356/n02971356_18611.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "cheeseburger"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n07697313/n07697313_6650.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "cheeseburger"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n07697313/n07697313_12954.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "cheeseburger"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n07697313/n07697313_1332.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "cheeseburger"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n07697313/n07697313_7507.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "baseball"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02799071/n02799071_4513.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "baseball"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02799071/n02799071_13537.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "baseball"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02799071/n02799071_6258.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "baseball"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02799071/n02799071_3376.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "toyshop"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04462240/n04462240_4395.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "toyshop"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04462240/n04462240_1727.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "toyshop"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04462240/n04462240_11077.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "toyshop"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04462240/n04462240_9955.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "scabbard"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04141327/n04141327_4864.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "scabbard"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04141327/n04141327_9482.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "scabbard"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04141327/n04141327_1823.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "scabbard"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04141327/n04141327_5810.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "Weimaraner"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02092339/n02092339_4406.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "Weimaraner"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02092339/n02092339_7543.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "Weimaraner"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02092339/n02092339_430.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "Weimaraner"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02092339/n02092339_5349.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "eel"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02526121/n02526121_6218.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "eel"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02526121/n02526121_6783.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "eel"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02526121/n02526121_6672.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "eel"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02526121/n02526121_8114.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "fly"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02190166/n02190166_11714.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "fly"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02190166/n02190166_11594.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "fly"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02190166/n02190166_539.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "fly"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02190166/n02190166_2971.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "viaduct"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04532670/n04532670_15580.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "viaduct"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04532670/n04532670_12885.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "viaduct"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04532670/n04532670_11088.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "viaduct"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04532670/n04532670_33537.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "vault"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04523525/n04523525_3905.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "vault"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04523525/n04523525_3920.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "vault"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04523525/n04523525_37965.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "vault"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04523525/n04523525_10977.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "wreck"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04606251/n04606251_1271.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "wreck"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04606251/n04606251_8242.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "wreck"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04606251/n04606251_7527.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "wreck"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04606251/n04606251_1692.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "daisy"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n11939491/n11939491_31017.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "daisy"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n11939491/n11939491_55716.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "daisy"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n11939491/n11939491_52779.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "daisy"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n11939491/n11939491_23859.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "tarantula"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n01774750/n01774750_5216.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "tarantula"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n01774750/n01774750_6588.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "tarantula"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n01774750/n01774750_180.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "tarantula"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n01774750/n01774750_473.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "stage"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04296562/n04296562_26847.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "stage"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04296562/n04296562_44926.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "stage"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04296562/n04296562_31037.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "stage"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04296562/n04296562_35573.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "fountain"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03388043/n03388043_9553.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "fountain"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03388043/n03388043_14598.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "fountain"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03388043/n03388043_8117.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "fountain"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03388043/n03388043_12381.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "screw"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04153751/n04153751_11198.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "screw"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04153751/n04153751_6314.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "screw"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04153751/n04153751_2956.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "screw"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04153751/n04153751_9508.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "Chihuahua"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02085620/n02085620_7822.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "Chihuahua"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02085620/n02085620_42462.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "Chihuahua"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02085620/n02085620_3958.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "Chihuahua"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02085620/n02085620_40862.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "catamaran"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02981792/n02981792_17652.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "catamaran"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02981792/n02981792_11971.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "catamaran"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02981792/n02981792_5906.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "catamaran"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02981792/n02981792_2360.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "keeshond"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02112350/n02112350_6563.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "keeshond"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02112350/n02112350_2565.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "keeshond"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02112350/n02112350_4307.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "keeshond"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02112350/n02112350_987.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "Appenzeller"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02107908/n02107908_12557.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "Appenzeller"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02107908/n02107908_7993.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "Appenzeller"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02107908/n02107908_406.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "Appenzeller"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02107908/n02107908_10148.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "gown"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03450230/n03450230_2577.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "gown"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03450230/n03450230_4976.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "gown"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03450230/n03450230_17042.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "gown"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03450230/n03450230_35070.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "groenendael"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02105056/n02105056_4876.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "groenendael"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02105056/n02105056_3165.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "groenendael"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02105056/n02105056_14914.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "groenendael"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02105056/n02105056_12896.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "carbonara"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n07831146/n07831146_901.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "carbonara"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n07831146/n07831146_2953.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "carbonara"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n07831146/n07831146_5408.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "carbonara"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n07831146/n07831146_17203.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "hare"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02326432/n02326432_28082.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "hare"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02326432/n02326432_8335.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "hare"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02326432/n02326432_779.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "hare"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02326432/n02326432_32791.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "holster"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03527444/n03527444_19837.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "holster"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03527444/n03527444_10320.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "holster"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03527444/n03527444_2136.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "holster"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03527444/n03527444_7085.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "macaque"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02487347/n02487347_11393.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "macaque"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02487347/n02487347_8639.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "macaque"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02487347/n02487347_2914.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "macaque"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02487347/n02487347_18460.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "bow"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02879718/n02879718_36107.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "bow"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02879718/n02879718_10524.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "bow"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02879718/n02879718_4538.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "bow"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02879718/n02879718_23605.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "mousetrap"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03794056/n03794056_126.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "mousetrap"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03794056/n03794056_5322.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "mousetrap"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03794056/n03794056_8064.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "mousetrap"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03794056/n03794056_6051.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "padlock"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03874599/n03874599_4926.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "padlock"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03874599/n03874599_7801.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "padlock"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03874599/n03874599_291.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "padlock"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03874599/n03874599_6080.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "reel"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04067472/n04067472_10094.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "reel"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04067472/n04067472_14774.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "reel"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04067472/n04067472_8951.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "reel"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n04067472/n04067472_3719.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "triceratops"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n01704323/n01704323_4744.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "triceratops"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n01704323/n01704323_2761.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "triceratops"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n01704323/n01704323_5618.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "triceratops"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n01704323/n01704323_15957.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "jacamar"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n01843065/n01843065_731.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "jacamar"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n01843065/n01843065_349.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "jacamar"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n01843065/n01843065_2239.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "jacamar"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n01843065/n01843065_9434.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "birdhouse"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02843684/n02843684_8913.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "birdhouse"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02843684/n02843684_10134.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "birdhouse"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02843684/n02843684_4708.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "birdhouse"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02843684/n02843684_9809.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "geyser"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n09288635/n09288635_7231.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "geyser"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n09288635/n09288635_25944.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "geyser"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n09288635/n09288635_10713.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "geyser"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n09288635/n09288635_1006.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "beaver"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02363005/n02363005_21905.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "beaver"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02363005/n02363005_7202.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "beaver"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02363005/n02363005_632.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "beaver"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02363005/n02363005_641.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "cannon"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02950826/n02950826_19826.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "cannon"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02950826/n02950826_15440.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "cannon"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02950826/n02950826_16992.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "cannon"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02950826/n02950826_10386.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "cloak"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03045698/n03045698_4490.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "cloak"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03045698/n03045698_6666.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "cloak"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03045698/n03045698_1376.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "cloak"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n03045698/n03045698_6997.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "warthog"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02397096/n02397096_12520.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "warthog"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02397096/n02397096_56.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "warthog"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02397096/n02397096_16638.JPEG"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "user",
+                "content": "<image>Please provide the object name in the image. Output the answer using one word."
+            },
+            {
+                "role": "assistant",
+                "content": "warthog"
+            }
+        ],
+        "images": [
+            "/data/dataset/Imagenet/train/n02397096/n02397096_2129.JPEG"
+        ]
+    }
+]
